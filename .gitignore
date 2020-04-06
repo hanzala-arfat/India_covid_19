@@ -1,3 +1,23 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@hanzala-arfat 
+hanzala-arfat
+/
+India_covid_19
+1
+00
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+India_covid_19/.gitignore
+@hanzala-arfat hanzala-arfat Initial commit
+5797dae 1 minute ago
+104 lines (76 sloc)  1.57 KB
+  
 # Logs
 logs
 *.log
@@ -102,3 +122,15 @@ dist
 
 # TernJS port file
 .tern-port
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
